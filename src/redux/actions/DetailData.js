@@ -11,7 +11,7 @@ const detailAction = (id) => async(dispatch) => {
               id: id
             },
             headers: {
-              'X-RapidAPI-Key': ''X-RapidAPI-KeyUrl',
+              'X-RapidAPI-Key': 'X-RapidAPI-KeyUrl',
               'X-RapidAPI-Host': 'youtube-v31.p.rapidapi.com'
             }
           };
